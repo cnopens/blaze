@@ -137,13 +137,13 @@ section .inner{
 }
 
 .r li{
-	width: 100px;
 	padding-left: 20px;
 	float: left;
 }
 
 .r li img{
-
+		width: 100px;
+	  height: 68px;
 }
 
 .r li img:hover{
@@ -152,7 +152,7 @@ section .inner{
 
 .show-box{
 	margin-top: 30px;
-	width: 90%;
+	width: 100%;
 	margin-left: 50px;
 }
 
